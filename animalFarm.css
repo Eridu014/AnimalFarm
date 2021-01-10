@@ -1,0 +1,18 @@
+  * {
+      color: white;
+      background-color: black;
+      text-align: center;
+      font-size: 24px;
+      margin: 0, auto;
+  }
+  .highlight {
+      color: red;
+      font-weight: bold;
+  }
+  .redTrans {
+      color: red;
+      font-size: 3rem;  
+    }
+    .redText {
+        color: red;
+    }
